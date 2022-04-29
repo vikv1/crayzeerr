@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **any of my projects!**
 
-- 📫 How to reach me **fyresbm9@gmail.com**
+- 📫 How to reach me **vikrantv@uw.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
