@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikrant Verma</h1>
-<h3 align="center">Currently a High School Senior in Washington.</h3>
+<h3 align="center">Currently a Freshman in college!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crayzeerr&label=Profile%20views&color=0e75b6&style=flat" alt="crayzeerr" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on The Weather Catcher
 
-- 🌱 I’m currently learning **JS, C++, and Java**.
+- 🌱 I’m currently learning **Python and Java**.
 
 - 👨‍💻 All of my projects are available at [github.com/crayzeerr](github.com/crayzeerr)
 
